@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning QA-testing
 
-- 📫 How to reach me https://vk.com/svurr
+
 
   
 
